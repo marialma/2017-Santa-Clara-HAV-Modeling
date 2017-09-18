@@ -1,2 +1,5 @@
-# 2017-Santa-Clara-HAV-Modeling
-Modeling of the ongoing HAV outbreak in Santa Clara
+# 2017 Santa Cruz Hepatitis A Virus (HAV) infection outbreak in Santa Cruz
+
+Modeling of the ongoing HAV outbreak in Santa Cruz
+
+Please viewe LitOverview.md for now. 
