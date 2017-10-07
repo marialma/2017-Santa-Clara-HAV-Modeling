@@ -6,6 +6,10 @@ Currently (2017-09-18), there are ongoing HAV outbreaks in San Diego, Santa Cruz
 
 Given transmission dynamics and natural history of HAV, environmental models seem like they'd make the most sense. The following paper feels like it would be useful: [Brouwer et al: Dose-response relationships for environmentally mediated infectious disease transmission models](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005481)
 
+## Hepatitis A Virus
+* Non enveloped, single stranded RNA virus
+* Low infectious dose - suspected anywhere from 10-100 particles. 
+ 
 ## Things to find
 
 - [ ] Environmental persistence of HAV
@@ -14,7 +18,12 @@ Given transmission dynamics and natural history of HAV, environmental models see
 - [ ] Infectious period
 - [ ] Asymptomatics?
 - [ ] Vaccine coverage/ effectiveness waning? 
-
+- [ ] Time course of infection?
+ * [Time course of viremia in blood](https://www.ncbi.nlm.nih.gov/pubmed/14635005) 
+ * More important to find viral load of stool?
+- [ ] Genome-associated differences? 
+ * Likely to be less relevant given everything in this outbreak is related, but could be interesting for future steps
+ 
 ## Other questions
 * Can this relate to other ongoing outbreaks of HAV? (San Diego, Michigan) 
 * Can this be used to predict what similar outbreaks (among homeless, drug user population) would look like in other cities (Berkeley, Oakland, SF?) 
