@@ -19,6 +19,7 @@ Given transmission dynamics and natural history of HAV, environmental models see
   * [HAV in water](http://www.tandfonline.com/doi/abs/10.1080/10643389409388470?journalCode=best20)
 - [ ] Infectious period
 - [ ] Asymptomatics?
+  * [I suspect asymptomatics might be a significant portion of this](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5418a1.htm)
 - [ ] Vaccine coverage/ effectiveness waning? 
 - [ ] Time course of infection?
  * [Time course of viremia in blood](https://www.ncbi.nlm.nih.gov/pubmed/14635005) 
